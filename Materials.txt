@@ -1,0 +1,18 @@
+Alex the Analyst Playlist (Complete Basics and Projects for Data Analytics)
+https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=cNEG_eZipyQ-7M7Z
+
+CodeBasics for exclusive Data Analytics and Data Science Projects
+https://youtube.com/@codebasics?si=QcVAbFL9gNvmVNSr
+
+Statistics
+https://youtube.com/playlist?list=PLunlGNVWDAaY7AeDDzTeu4-DD3g7zmAXs&si=0rqm41dq5cQpSQpP
+
+Data Analytics Advanced (optional)
+https://youtube.com/@chandoo_?si=dfTXT2tlz-7wg_yK
+https://youtube.com/@lukebarousse?si=4S850hEqkfO93CQw
+
+PySpark
+https://youtube.com/playlist?list=PLMWaZteqtEaJFiJ2FyIKK0YEuXwQ9YIS_&si=1xEiWNuMO3IiCtTe
+
+Hadoop Glue Hive Spark
+https://youtube.com/playlist?list=PLLa_h7BriLH2UYJIO9oDoP3W-b6gQeA12&si=DxaWzQfqvqcmx1We
